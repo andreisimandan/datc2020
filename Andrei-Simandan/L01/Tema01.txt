@@ -1,0 +1,7 @@
+Slack a devenit rapid una dintre cele mai populare soluții SaaS pentru companii.
+Slack este un instrument de comunicare bazat pe cloud, care creează spații pentru comunicarea dintre angajațil.
+Acesta este un chat în care companiile pot trimite mesaje text și pot avea întâlniri.
+Membrii echipei își pot organiza munca și sarcinile creând conversații în echipă pe un subiect specific care trebuie discutat.
+Puteți face ping colegilor de echipă, puteți partaja fișiere și puteți integra diferite aplicații pe care le utilizați.
+De asemenea, chat-urile pot fi folosite pentru a reaminti oamenilor sarcinile importante care trebuie îndeplinite.
+Am utilizat aceasta aplicatie in cadrul laboratorului de Cloud din cadrul firmei Atos.
