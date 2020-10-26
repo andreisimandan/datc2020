@@ -1,0 +1,4 @@
+C:\Users\Bogdan\source\repos\Tema5\Tema5\bin\Debug\netcoreapp3.1\Tema5.exe
+C:\Users\Bogdan\source\repos\Tema5\Tema5\obj\Debug\netcoreapp3.1\Tema5.csprojAssemblyReference.cache
+C:\Users\Bogdan\source\repos\Tema5\Tema5\obj\Debug\netcoreapp3.1\Tema5.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\Tema5\Tema5\obj\Debug\netcoreapp3.1\Tema5.AssemblyInfo.cs
